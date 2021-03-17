@@ -1,0 +1,43 @@
+body {
+	background-color: beige;
+
+}
+.box {
+	height: 150px;
+	width: 150px;
+
+}
+
+.container {
+	display: flex;
+	justify-content:space-around;
+}
+
+
+
+
+.red {
+	background-color: tomato;
+	font-family: 'Allerta Stencil';
+	font-size: 22px;
+}
+
+.blue{
+	background-color:lightblue; 
+	​ font-family: 'Belleza';
+	font-size: 22px;
+}
+.purple {
+	background-color:purple;
+	font-family: 'Abel';
+	font-size: 22px; 
+}
+.pink {
+	background-color:pink ;
+	font-family: 'Actor';
+	font-size: 22px;
+}
+img{
+	
+	width: 75%;
+}
